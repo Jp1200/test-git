@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App designed for inputting tweets and sourcing articles posted on the internet to create a sense of credibility.
 
 ## Available Scripts
 
