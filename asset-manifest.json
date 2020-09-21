@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-git/static/css/main.26c4a6ff.chunk.css",
-    "main.js": "/test-git/static/js/main.814c02b6.chunk.js",
-    "main.js.map": "/test-git/static/js/main.814c02b6.chunk.js.map",
-    "runtime-main.js": "/test-git/static/js/runtime-main.bed85489.js",
-    "runtime-main.js.map": "/test-git/static/js/runtime-main.bed85489.js.map",
-    "static/js/2.006bdf0d.chunk.js": "/test-git/static/js/2.006bdf0d.chunk.js",
-    "static/js/2.006bdf0d.chunk.js.map": "/test-git/static/js/2.006bdf0d.chunk.js.map",
-    "index.html": "/test-git/index.html",
-    "precache-manifest.82b6f5fb3ed387d04481db34c6909523.js": "/test-git/precache-manifest.82b6f5fb3ed387d04481db34c6909523.js",
-    "service-worker.js": "/test-git/service-worker.js",
-    "static/css/main.26c4a6ff.chunk.css.map": "/test-git/static/css/main.26c4a6ff.chunk.css.map",
-    "static/js/2.006bdf0d.chunk.js.LICENSE.txt": "/test-git/static/js/2.006bdf0d.chunk.js.LICENSE.txt"
+    "main.css": "/tweet-checker/static/css/main.26c4a6ff.chunk.css",
+    "main.js": "/tweet-checker/static/js/main.845ffade.chunk.js",
+    "main.js.map": "/tweet-checker/static/js/main.845ffade.chunk.js.map",
+    "runtime-main.js": "/tweet-checker/static/js/runtime-main.26169815.js",
+    "runtime-main.js.map": "/tweet-checker/static/js/runtime-main.26169815.js.map",
+    "static/js/2.006bdf0d.chunk.js": "/tweet-checker/static/js/2.006bdf0d.chunk.js",
+    "static/js/2.006bdf0d.chunk.js.map": "/tweet-checker/static/js/2.006bdf0d.chunk.js.map",
+    "index.html": "/tweet-checker/index.html",
+    "precache-manifest.e7d557d56575518b8bd8401b7e5dd5e3.js": "/tweet-checker/precache-manifest.e7d557d56575518b8bd8401b7e5dd5e3.js",
+    "service-worker.js": "/tweet-checker/service-worker.js",
+    "static/css/main.26c4a6ff.chunk.css.map": "/tweet-checker/static/css/main.26c4a6ff.chunk.css.map",
+    "static/js/2.006bdf0d.chunk.js.LICENSE.txt": "/tweet-checker/static/js/2.006bdf0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bed85489.js",
+    "static/js/runtime-main.26169815.js",
     "static/js/2.006bdf0d.chunk.js",
     "static/css/main.26c4a6ff.chunk.css",
-    "static/js/main.814c02b6.chunk.js"
+    "static/js/main.845ffade.chunk.js"
   ]
 }
