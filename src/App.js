@@ -1,24 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import AsyncHooks from "./asyncLoad";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className="info">
+      <h1>
+        <i className="fab fa-twitter twitter-icon"></i>Tweet Source Fact Check
+        Helper
+      </h1>
+      <header>
+        Copy and paste Tweets in the Search Bar to find related articles
       </header>
+      <header>Press Enter to Search</header>
+      <AsyncHooks />
     </div>
   );
 }
